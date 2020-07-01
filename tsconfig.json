@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "./dist", // pasta onde ficara o codigo JS
     "module": "commonjs", // gera com o formato que os browsers entendem
-    "target": "es2019", // ira gerar o codigo com o padrao es2019 check node.green
+    "target": "ES2019", // ira gerar o codigo com o padrao es2019 check node.green
     "esModuleInterop": true, //faz conversão dos modulos que usam require para import,
     "allowJs": true // arquivo de config em JS ao inves de JSON, ira incluir o arquivo no dist
   }
